@@ -1,0 +1,1 @@
+﻿filename(name.assetbundle)	android_download_link	pc_download_link	resource_type(UpdateTable.cs enum)	file_version
